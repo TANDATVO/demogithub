@@ -1,0 +1,14 @@
+D:\Demo_DB\DAO\bin\Debug\DAO.dll
+D:\Demo_DB\DAO\bin\Debug\DAO.pdb
+D:\Demo_DB\DAO\bin\Debug\DTO.dll
+D:\Demo_DB\DAO\bin\Debug\DTO.pdb
+D:\Demo_DB\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Demo_DB\DAO\obj\Debug\DAO.dll
+D:\Demo_DB\DAO\obj\Debug\DAO.pdb
+D:\iWin\BT\Demo_DB\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\iWin\BT\Demo_DB\DAO\obj\Debug\DAO.dll
+D:\iWin\BT\Demo_DB\DAO\bin\Debug\DAO.dll
+D:\iWin\BT\Demo_DB\DAO\bin\Debug\DAO.pdb
+D:\iWin\BT\Demo_DB\DAO\bin\Debug\DTO.dll
+D:\iWin\BT\Demo_DB\DAO\bin\Debug\DTO.pdb
+D:\iWin\BT\Demo_DB\DAO\obj\Debug\DAO.pdb
